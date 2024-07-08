@@ -1,5 +1,7 @@
 <?php
-    enum DiasSemana: int {
+    // Enumeraciones en PHP
+    enum DiasSemana : int
+    {
         case Lunes = 1;
         case Martes = 2;
         case Miercoles = 3;
@@ -31,4 +33,5 @@
 
     for ($i = 0; $i <=10; $i++) {
         echo getNameDay($i), "\n";
-    } 
+    }
+?> 
