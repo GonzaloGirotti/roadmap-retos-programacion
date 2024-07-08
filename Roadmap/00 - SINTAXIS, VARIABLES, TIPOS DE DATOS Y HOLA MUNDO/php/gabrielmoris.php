@@ -10,7 +10,7 @@ comment
 */
 
 // Variables
-$variable ="I am a siple basic variable."
+$variable ="I am a siple basic variable.";
 // Constants
 
 define("constant", "I am inmutable.");

@@ -219,7 +219,7 @@ echo "<pre>$comando</pre>";
 // OPERADORES DE TIPO
 // Operador instanceof
 // El operador instanceof es utilizado para determinar si un objeto es una instancia de una clase específica, incluyendo las clases heredadas.
-$objeto instanceof Clase
+$objeto instanceof MiClase; // Devuelve true si $objeto es una instancia de MiClase o una de sus clases heredadas
 
 
 // OPERADOR TERNARIO
